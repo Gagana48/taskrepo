@@ -9,4 +9,4 @@ input|output
  
  Talk with :hand:
  
- [!naruto](https://easydrawingguides.com/wp-content/uploads/2017/05/how-to-draw-naruto-20.png)
+ ![naruto](https://easydrawingguides.com/wp-content/uploads/2017/05/how-to-draw-naruto-20.png)
